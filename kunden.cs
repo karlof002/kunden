@@ -68,9 +68,6 @@ namespace KundenNew
             }
         }
 
-        //uhjuhjunhhn
-        //Console.Clear
-        // </ > 
         private static void Print(Person[] persons)
         {
             Console.Clear();
