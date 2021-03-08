@@ -6,7 +6,6 @@ namespace KundenNew
     class Program
     {
         static string path = "kunden.csv";
-
         public struct Person
         {
             public string FirstName;
